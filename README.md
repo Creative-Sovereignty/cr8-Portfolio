@@ -19,7 +19,8 @@ Cinematic dark theme with neon/glow accents (cyan, magenta, purple, green). Font
 | Band Aide | https://bandaide.xyz |
 | Drumz | https://drums.xyz |
 | Sovereign IP | https://ipsovereignty.xyz |
-| Guitar Theory Flow | https://fret.guitarigz.xyz |
+| Guitarigz | https://guitarigz.xyz |
+| Fret and Theory | https://fret.guitarigz.xyz |
 | VideGrow | https://videgrow.org |
 
 ## Run Locally
