@@ -1,4 +1,4 @@
-# Launch Checklist for abledsoul.com
+# Launch Checklist for ipsovereignty.xyz
 
 ## ✅ Completed
 - [x] Portfolio built with React 18 + Tailwind CSS
@@ -39,7 +39,7 @@ Update your domain registrar with ONE of these options:
 
 ### 3. Verify Setup
 1. Return to GitHub Pages settings after 2-5 minutes
-2. You should see: "Your site is live at https://abledsoul.com"
+2. You should see: "Your site is live at https://ipsovereignty.xyz"
 3. GitHub will automatically configure SSL/HTTPS
 
 ### 4. Timeline
@@ -70,4 +70,4 @@ Update your domain registrar with ONE of these options:
 
 ---
 
-**Your portfolio is ready to go live!** 🚀
+**Your portfolio is ready to go live at ipsovereignty.xyz!** 🚀
